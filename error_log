@@ -1,0 +1,59 @@
+[29-May-2018 16:38:48 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 16:38:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 16:50:14 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 16:50:14 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:15:12 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:15:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:16:08 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:16:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:16:17 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:16:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:17:49 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:17:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:18:22 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:18:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:18:30 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:18:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:19:00 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:19:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:19:13 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:19:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:19:22 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:19:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:19:23 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:19:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:19:27 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:19:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:19:34 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:19:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:20:08 UTC] PHP Warning:  require_once(bd_function.php): failed to open stream: No such file or directory in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[29-May-2018 18:20:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'bd_function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/biinyucom/public_html/tutecho/v5/noticesJSON.php on line 3
+[02-Oct-2018 15:47:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/biinyucom/public_html/tutecho/v5/inmuebles.php on line 32
+[02-Oct-2018 15:47:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/biinyucom/public_html/tutecho/v5/inmuebles.php on line 32
+[02-Oct-2018 15:48:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/biinyucom/public_html/tutecho/v5/inmuebles.php on line 32
+[24-Jan-2019 10:18:41] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[06-Feb-2019 19:09:08] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[06-Feb-2019 20:38:19] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[11-Feb-2019 16:40:53] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[15-Feb-2019 08:33:59] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[22-Feb-2019 15:35:52] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[24-Mar-2019 15:42:03] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[05-Apr-2019 02:41:38] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[23-Apr-2019 06:50:25] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[27-Apr-2019 15:44:02] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[07-May-2019 12:26:32] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[09-May-2019 10:47:17] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[13-May-2019 10:38:04] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[13-May-2019 11:20:47] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[19-May-2019 17:22:48] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[13-Jun-2019 14:21:39] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[17-Jun-2019 15:17:15] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[16-Sep-2019 09:28:56] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[19-Sep-2019 07:43:15] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[21-Oct-2019 19:07:39] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[28-Nov-2019 11:27:25] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[03-Dec-2019 10:37:23] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[03-Dec-2019 15:14:23] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[07-Dec-2019 13:51:11] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[09-Jan-2020 17:10:22] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
+[16-Jan-2020 16:04:26] PHP Notice:  Undefined index:  dt in /home2/tutechon/public_html/detalle-inmueble.php on line 4
